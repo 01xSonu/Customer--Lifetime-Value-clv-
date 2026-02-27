@@ -41,5 +41,5 @@ The application outputs a ranked table of customers with their predicted lifetim
 - Revenue forecasting
 
 ## 📎 Author
-Your Name
+Sonu Kumar
 
